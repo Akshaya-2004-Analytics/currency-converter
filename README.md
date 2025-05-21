@@ -53,7 +53,7 @@ This is a fully responsive **Currency Converter Website** that allows users to c
 )
 
 ### 📘 History Page
-![History Page Screenshot](![history](https://github.com/user-attachments/assets/d3575d3a-c23a-4e37-9456-e4812ea323c1)
+![History Page Screenshot](https://github.com/user-attachments/assets/d3575d3a-c23a-4e37-9456-e4812ea323c1)
 )
 
 ---
@@ -62,7 +62,7 @@ This is a fully responsive **Currency Converter Website** that allows users to c
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/currency-converter.git
+  https://github.com/Akshaya-2004-Analytics/currency-converter.git
 
 
    

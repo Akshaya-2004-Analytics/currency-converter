@@ -12,8 +12,8 @@ This is a fully responsive **Currency Converter Website** that allows users to c
 
 ## 🔗 Live Demo
 
-👉 **[Click Here to Visit the Website](https://your-username.github.io/currency-converter/)**  
-*(Replace `your-username` with your GitHub username)*
+👉 **[Click Here to Visit the Website]( https://akshaya-2004-analytics.github.io/currency-converter/)**  
+
 
 ---
 
@@ -49,10 +49,12 @@ This is a fully responsive **Currency Converter Website** that allows users to c
 ## 📸 Screenshots
 
 ### 🧮 Main Converter
-![Currency Converter Screenshot](./screenshots/main-converter.png)
+![Currency Converter Screenshot](![Global Currency Converter - Personal - Microsoft​ Edge 21-05-2025 11_37_43](https://github.com/user-attachments/assets/445ddc4d-a3fb-4ca2-a375-3728ff3dcf6c)
+)
 
 ### 📘 History Page
-![History Page Screenshot](./screenshots/history-page.png)
+![History Page Screenshot](![history](https://github.com/user-attachments/assets/d3575d3a-c23a-4e37-9456-e4812ea323c1)
+)
 
 ---
 
@@ -66,14 +68,7 @@ This is a fully responsive **Currency Converter Website** that allows users to c
    
 ---
 
-### ✅ What You Should Update
-- Replace `https://your-username.github.io/currency-converter/` with your actual GitHub Pages URL
-- Replace the LinkedIn URL with your profile
-- If you have screenshots, place them in a `/screenshots` folder and update the image links
 
----
-
-Would you like me to generate the screenshots for you as well, or help with the LICENSE file?
 
 
 
